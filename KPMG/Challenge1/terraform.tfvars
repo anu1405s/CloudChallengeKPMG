@@ -1,0 +1,7 @@
+azurerm_resource_group="azureRG"
+location = "eastus"
+azurerm_virtual_network="VirtualNetwork"
+azurerm_subscriptionId="d1f155d4-e576-468f-84f5-450022698c5e"
+azurerm_clientId="c02bcd85-9675-4dc1-876d-e578953748d1"
+azurerm_clintSecret="1Xg8Q~PFBMrVpomY_zkJK8qIA9FeSRwDti1b-b8q"
+azurerm_tenantId="977682c6-4c1f-45fe-98dd-1ef7021a0d1e"
